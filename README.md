@@ -1,0 +1,1 @@
+[![Oppdragsportalen Api CI](https://github.com/sebastiannordby/oppdragsportalen/actions/workflows/oppdragsportalen-api-ci.yml/badge.svg)](https://github.com/sebastiannordby/oppdragsportalen/actions/workflows/oppdragsportalen-api-ci.yml)
