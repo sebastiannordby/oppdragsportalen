@@ -9,7 +9,7 @@ namespace Oppdragsportalen.Api.Tests.Integration
     public class WebApplicationFactoryFixture : IAsyncLifetime
     {
         private WebApplicationFactory<IOppdragsportalenApiAssemblyMarker> _factory = null!;
-        private readonly MsSqlContainer _databaseContainer = new MsSqlContainer(new());
+        private readonly MsSqlContainer _databaseContainer = new MsSqlBuilder().Build();
 
         public WebApplicationFactory<IOppdragsportalenApiAssemblyMarker> Factory => _factory;
 
