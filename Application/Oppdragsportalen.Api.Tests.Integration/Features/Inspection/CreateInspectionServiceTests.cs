@@ -22,7 +22,7 @@ namespace Oppdragsportalen.Api.Tests.Integration.Features.Inspection
 
             await sut.HandleAsync(new()
             {
-                Title = _faker.Random.AlphaNumeric(10)
+                Title = _faker.Random.AlphaNumeric(1)
             });
 
             Assert.True(true);
