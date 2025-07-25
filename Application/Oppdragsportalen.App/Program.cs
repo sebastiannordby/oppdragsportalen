@@ -1,4 +1,4 @@
-using Oppdragsportalen.Web;
+using Oppdragsportalen.App;
 using App = Oppdragsportalen.App.Components.App;
 
 var builder = WebApplication.CreateBuilder(args);
