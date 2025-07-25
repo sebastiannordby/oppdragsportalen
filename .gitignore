@@ -27,6 +27,7 @@ bld/
 project.lock.json
 project.fragment.lock.json
 artifacts/
+*.csproj.user
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
@@ -52,3 +53,7 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs
+/Oppdragsportalen.Web/Oppdragsportalen.App.csproj.user
+/Oppdragsportalen.ApiService/Oppdragsportalen.Api.csproj.user
+/Application/.vs

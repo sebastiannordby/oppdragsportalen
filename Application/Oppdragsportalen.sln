@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oppdragsportalen.Orchestrator", "Oppdragsportalen.Orchestrator\Oppdragsportalen.Orchestrator.csproj", "{3E1DF7B5-9897-4F2B-B709-2192CF18D16A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oppdragsportalen.ServiceDefaults", "Oppdragsportalen.ServiceDefaults\Oppdragsportalen.ServiceDefaults.csproj", "{B2589C9E-CB78-4F45-A6F3-BD6BA68D9B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oppdragsportalen.Api", "Oppdragsportalen.Api\Oppdragsportalen.Api.csproj", "{E5B083B7-C958-4E55-ABEA-A1CEE19CCAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oppdragsportalen.App", "Oppdragsportalen.App\Oppdragsportalen.App.csproj", "{60177049-6AD6-4AAE-BA2A-068A6C15FD7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oppdragsportalen.Api.Tests.Integration", "Oppdragsportalen.Api.Tests.Integration\Oppdragsportalen.Api.Tests.Integration.csproj", "{30FABC1C-3C19-444A-9C88-3FB312BBB05C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1DF7B5-9897-4F2B-B709-2192CF18D16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1DF7B5-9897-4F2B-B709-2192CF18D16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1DF7B5-9897-4F2B-B709-2192CF18D16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1DF7B5-9897-4F2B-B709-2192CF18D16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2589C9E-CB78-4F45-A6F3-BD6BA68D9B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2589C9E-CB78-4F45-A6F3-BD6BA68D9B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2589C9E-CB78-4F45-A6F3-BD6BA68D9B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2589C9E-CB78-4F45-A6F3-BD6BA68D9B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B083B7-C958-4E55-ABEA-A1CEE19CCAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B083B7-C958-4E55-ABEA-A1CEE19CCAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B083B7-C958-4E55-ABEA-A1CEE19CCAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B083B7-C958-4E55-ABEA-A1CEE19CCAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60177049-6AD6-4AAE-BA2A-068A6C15FD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60177049-6AD6-4AAE-BA2A-068A6C15FD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60177049-6AD6-4AAE-BA2A-068A6C15FD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60177049-6AD6-4AAE-BA2A-068A6C15FD7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30FABC1C-3C19-444A-9C88-3FB312BBB05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FABC1C-3C19-444A-9C88-3FB312BBB05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FABC1C-3C19-444A-9C88-3FB312BBB05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FABC1C-3C19-444A-9C88-3FB312BBB05C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
