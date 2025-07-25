@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Oppdragsportalen.ApiService\Oppdragsportalen.Api.csproj" />
+    <ProjectReference Include="..\Oppdragsportalen.Api\Oppdragsportalen.Api.csproj" />
   </ItemGroup>
 
   <ItemGroup>

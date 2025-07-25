@@ -12,8 +12,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Oppdragsportalen.ApiService\Oppdragsportalen.Api.csproj" />
-    <ProjectReference Include="..\Oppdragsportalen.Web\Oppdragsportalen.App.csproj" />
+    <ProjectReference Include="..\Oppdragsportalen.Api\Oppdragsportalen.Api.csproj" />
+    <ProjectReference Include="..\Oppdragsportalen.App\Oppdragsportalen.App.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,4 +1,4 @@
-namespace Oppdragsportalen.Web;
+namespace Oppdragsportalen.App;
 
 public class WeatherApiClient(HttpClient httpClient)
 {
